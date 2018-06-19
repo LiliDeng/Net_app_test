@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="mysql-test.aspx.cs" Inherits="Net_app_test.mysql_test" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="mysql-test.aspx.cs" Inherits="Net_app_test.sql_test" %>
 
 <!DOCTYPE html>
 
@@ -9,7 +9,6 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
     </div>
     </form>
 </body>
