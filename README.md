@@ -6,6 +6,6 @@ cf push netapp -s windows2012R2 -b hwc_buildpack -p . <br />
 Get url by running cf apps <br />
 
 Visit  <br />
-http://url/mysql-test.aspx <br />
+http://url/sql-test.aspx <br />
 http://url/postgres-test.aspx <br />
 http://url/azure-mssql-test.aspx <br />
